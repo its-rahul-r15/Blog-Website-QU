@@ -32,9 +32,7 @@
 
 ✨ **Cloud Services**
 - Vercel (Deployment) ⚡
-- Firebase (Authentication) 🔐
 - ImageKit (Image Optimization) 📷
-- Cloudinary (Image Storage) ☁️
 
 ---
 
@@ -46,14 +44,6 @@
 ✅ Responsive UI (Mobile-first design) 📱  
 ✅ Image Optimization for faster load times ⚡  
 ✅ Clean and Minimal UI 🌈
-
----
-
-## 📸 Screenshots
-
-| 💻 Web | 📱 Mobile |
-|-------|-----------|
-| ![Web Preview](https://raw.githubusercontent.com/its-rahul-r15/Blog-Website-QU/main/assets/web.png) | ![Mobile Preview](https://raw.githubusercontent.com/its-rahul-r15/Blog-Website-QU/main/assets/mobile.png) |
 
 ---
 

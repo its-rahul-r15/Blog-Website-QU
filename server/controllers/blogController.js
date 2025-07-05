@@ -1,5 +1,5 @@
 import fs from 'fs';
-import imagekit from "../configs/imageKit.js";
+import imagekit from "../configs/imageKit.js"; // ✅ check file name case
 import Blog from '../models/Blog.js';
 import Comment from '../models/Comment.js';
 import main from '../configs/gemini.js';

@@ -49,13 +49,25 @@
 
 ## 📂 Folder Structure
 
-Blog-Website-QU/
-├── client/ # Frontend (React)
-├── server/ # Backend (Node.js + Express)
-├── assets/ # Images & GIFs for docs
-├── .env.example # Environment variables sample
-└── README.md # You are here
-
+```bash
+Blog-Website-QU
+├── client/              # Frontend (React.js + Tailwind CSS)
+│   ├── public/          # Public assets
+│   └── src/             # React components & pages
+│       ├── components/  # Reusable UI components
+│       ├── pages/       # Main pages (Home, Blogs, etc.)
+│       └── App.js       # Entry point
+│
+├── server/              # Backend (Node.js + Express)
+│   ├── controllers/     # Route controllers
+│   ├── models/          # MongoDB models
+│   ├── routes/          # API routes
+│   ├── server.js        # Backend entry point
+│   └── .env.example     # Environment variables example
+│
+├── assets/              # Screenshots & preview GIFs
+├── README.md            # Project documentation
+└── package.json         # Project metadata
 
 ---
 

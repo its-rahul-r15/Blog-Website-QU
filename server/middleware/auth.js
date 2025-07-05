@@ -11,4 +11,4 @@ const auth = (req,res, next) => {
     }
 }
 
-export default auth; // Export the auth middleware for use in other parts of the application
+export default auth;
